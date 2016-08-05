@@ -1,0 +1,26 @@
+_repo: The-Biography-of-a-Rabbit_7190
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Benson, Roy
+    birthdate: 1917
+    deathdate: 1990
+    gutenberg_agent_id: '2370'
+    url: http://www.gutenberg.org/2009/agents/2370
+description: ''
+gutenberg_bookshelf: World War II
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7190'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'D731'
+- !lcsh 'World War, 1939-1945 -- Prisoners and prisons, German'
+- !lcsh 'World War, 1939-1945 -- Personal narratives, American'
+- GITenberg
+title: The Biography of a Rabbit
+url: http://www.gutenberg.org/ebooks/7190
